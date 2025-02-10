@@ -75,7 +75,7 @@ const router = Router();
 
 /**
  * @swagger
- * /api/v1/airports:
+ * /api/v1/airports-cities:
  *  get:
  *    summary: Get a list of airports and cities
  *    tags: [airports]
